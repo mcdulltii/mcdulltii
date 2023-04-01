@@ -25,5 +25,5 @@ click Emp4 "https://github.com/mcdulltii/Resume/blob/master/resume.md#devsecops-
 ```
 
 ## ⚡ Stats
-![Metrics](https://metrics.lecoq.io/mcdulltii?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&stars=1&lines=1&languages.ignored=Javascript&stars.limit=2)
+![Metrics](https://metrics.lecoq.io/mcdulltii?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&stars=1&lines=1&languages.ignored=JavaScript%2C%20PowerShell&stars.limit=2)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mcdulltii" alt="Visitor Count" />
